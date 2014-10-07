@@ -51,7 +51,7 @@ There are only two tasks in this part, and they both produce the same output.
     Desired Action:     print "CWD: " and the current working directory on the same line.
                         MUST USE BACKTICKS
 
-    Example Output:     CWD: /homes/kkohlmor/cs190lab3
+    Example Output:     CWD: /homes/kkohlmor/cs190lab4
 
     You will use the answer in Part 2. No answers.txt this week.
 
@@ -64,7 +64,7 @@ In this task, you will be working with the environment variable named `PWD`.
     Desired Action:     print "CWD: " and the current working directory on the same line.
                         MUST USE ENVIRONMENT VARIABLES
 
-    Example Output:     CWD: /homes/kkohlmor/cs190lab3
+    Example Output:     CWD: /homes/kkohlmor/cs190lab4
 
     You will use the answer in Part 2. No answers.txt this week.
 
