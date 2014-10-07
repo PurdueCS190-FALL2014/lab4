@@ -131,6 +131,11 @@ To do so, run
 
     zsh
 
+*If you see a weird screen like this*
+
+![](https://raw.githubusercontent.com/PurdueCS190/lab4/master/newuser.png)
+
+*just press `0`*
 #### Pick a Color Scheme ####
 
 To change your color scheme modify the .zshrc file's `ZSH_THEME` enviroment variable.
