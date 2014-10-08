@@ -73,6 +73,8 @@ In this task, you will be working with the environment variable named `PWD`.
 
 There is a shell script named `dirinfo` in your `~/bin` directory. You will edit this file in a text editor (pluma) to satisfy the follow requirements. 
 
+    pluma ~/bin/dirinfo &
+
 1. Prints the current working directory in the format of Task 1/Task 2
 2. Prints the *contents* of the working directory.
 3. The command used to satisfy #2 must contain two relavent arguments. Your choice. Be prepared to explain your choice of arguments.
