@@ -77,13 +77,13 @@ There is a shell script named `dirinfo` in your `~/bin` directory. You will edit
 
 1. Prints the current working directory in the format of Task 1/Task 2
 2. Prints the *contents* of the working directory.
-3. The command used to satisfy #2 must contain two relavent arguments. Your choice. Be prepared to explain your choice of arguments.
+3. The command used to satisfy #2 must contain two relavent flags (like -a or -l). Your choice. Be prepared to explain your choice of flags.
 
 Detailed instructions are included in the comments of the `dirinfo` script.
 
 #### Man Pages ####
 
-To help you in the search for arguments for the 3rd requirement, you may find the `man` program helpful.
+To help you in the search for flags for the 3rd requirement, you may find the `man` program helpful.
 
     man <command_name>  # ex. man pwd
 
