@@ -10,7 +10,7 @@ Before starting the lab, **OPEN THE [REFERENCE SHEET](https://github.com/PurdueC
 
 	cd; curl -sL https://raw.githubusercontent.com/PurdueCS190/lab4/master/lab4init | /bin/bash
 
-Copy the command above and run it within the terminal. It will create a folder named `cs190lab4` located within your home directory. 
+Copy the command above and run it within the terminal. It will **not** create a folder named `cs190lab4` located within your home directory, but rather a `bin` folder with a file called `dirinfo` inside.
 
 ----
 
